@@ -1,0 +1,22 @@
+.show-time{
+    display: flex;
+    justify-content: center;
+}
+.startWork p{
+    text-align: center;
+}
+.inputs {
+    display: flex;
+    flex-direction: column;
+}
+.inputs input{
+    margin-top: 1.2rem;
+    border-radius: 2rem;
+    outline: none;  
+    height: 2rem;
+}
+.btn-reset{
+    width: 60%;
+    height: 9rem;
+    border-radius: 50%;
+}
